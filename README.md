@@ -1,1 +1,1 @@
-# miniHDFS
+# gfs and collosus demonstration in go 
